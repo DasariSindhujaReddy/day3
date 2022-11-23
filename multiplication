@@ -1,0 +1,7 @@
+a=int(input('enter a value:'))
+enter a value:15
+b=int(input('enter b value:'))
+enter b value:25
+c=a*b
+print(c)
+375
